@@ -1,0 +1,15 @@
+/*
+JRC 
+Josiah  Rocket Computer
+
+PIC 30F3013 
+7 LED
+ wired to RB 0-6
+3 switches
+ wired to RF6, RD8, RD9
+1 beeper
+ wired RB9
+
+RC13 power ON FET
+RC14 Heart Beat LED
+*/
